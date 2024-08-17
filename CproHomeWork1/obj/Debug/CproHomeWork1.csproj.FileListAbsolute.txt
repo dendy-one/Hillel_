@@ -1,0 +1,7 @@
+C:\hillele\CproHomeWork1\obj\Debug\CproHomeWork1.csproj.AssemblyReference.cache
+C:\hillele\CproHomeWork1\obj\Debug\CproHomeWork1.csproj.CoreCompileInputs.cache
+C:\hillele\CproHomeWork1\bin\Debug\CproHomeWork1.exe.config
+C:\hillele\CproHomeWork1\bin\Debug\CproHomeWork1.exe
+C:\hillele\CproHomeWork1\bin\Debug\CproHomeWork1.pdb
+C:\hillele\CproHomeWork1\obj\Debug\CproHomeWork1.exe
+C:\hillele\CproHomeWork1\obj\Debug\CproHomeWork1.pdb
