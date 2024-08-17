@@ -1,0 +1,7 @@
+C:\hillele\CproHomeWor2\bin\Debug\CproHomeWor2.exe.config
+C:\hillele\CproHomeWor2\bin\Debug\CproHomeWor2.exe
+C:\hillele\CproHomeWor2\bin\Debug\CproHomeWor2.pdb
+C:\hillele\CproHomeWor2\obj\Debug\CproHomeWor2.csproj.AssemblyReference.cache
+C:\hillele\CproHomeWor2\obj\Debug\CproHomeWor2.csproj.CoreCompileInputs.cache
+C:\hillele\CproHomeWor2\obj\Debug\CproHomeWor2.exe
+C:\hillele\CproHomeWor2\obj\Debug\CproHomeWor2.pdb
